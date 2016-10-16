@@ -1,0 +1,2 @@
+M:\Loader Updated\bin\Debug\PortAIO-Loader.exe.config
+M:\Loader Updated\obj\Debug\KappaLegends-Loader.csprojResolveAssemblyReference.cache
