@@ -1,7 +1,7 @@
 ﻿using EloBuddy;
 using EloBuddy.SDK.Events;
 
-namespace KappaLeagends_Loader
+namespace PortAIO_Loader
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace KappaLeagends_Loader
 
         private static void Loading_OnLoadingComplete(System.EventArgs args)
         {
-            KappaLeagends.Init.Initialize();
+            PortAIO.Init.Initialize();
         }
     }
 }
